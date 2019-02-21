@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <excludeFromCompile>
+      <directory url="file:///Library/Java/JavaVirtualMachines/jdk-9.0.4.jdk/Contents/Home" includeSubdirectories="true" />
+    </excludeFromCompile>
+    <bytecodeTargetLevel target="9" />
+  </component>
+</project>
