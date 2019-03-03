@@ -19,7 +19,7 @@ public abstract class Repository<DTO extends DTOBase> implements IRepository<DTO
 
     public Repository() {
         con = getConnection();
-        ConnectionPoolDataSource
+        // ConnectionPoolDataSource to be implemented not to have trouble with running multiple tests at once
     }
 
     @Override
